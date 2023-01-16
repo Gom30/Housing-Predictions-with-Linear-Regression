@@ -14,7 +14,8 @@
 
 6.Deployment
 
-#Requirements
+# Requirements
+
 Numpy - Array manipulations and computations
 
 Pandas - Creating data frames and exploring Dataset
