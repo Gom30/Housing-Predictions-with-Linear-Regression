@@ -3,10 +3,15 @@
  We will be taking the following steps:
 
 1.Data Acquisition
+
 2.Data Preparation
+
 3.Model Training
+
 4.Model testing
+
 5.Evaluation
+
 6.Deployment
 
 #Requirements
